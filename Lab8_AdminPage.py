@@ -17,7 +17,9 @@ def main(user):
     OD.new_frame(heading_frame, 50, 30, 1066, 15, "#04BADE")
     OD.new_frame(heading_frame, 50, 230, 1066, 15, "#04BADE")
     OD.new_frame(heading_frame, 0, 250, 1166, 15, "#04BADE")
-    OD.new_label_title(heading_frame, "GIT PUSH \nN PULL", 583, 130)
+    
+    #   Edited by Jamez0529
+    OD.new_label_title(heading_frame, "GIT PULL \nN PUSH", 583, 130)
 
     # ------------------ Basic Info ------------------ #
     def close():
