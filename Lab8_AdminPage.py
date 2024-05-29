@@ -13,10 +13,10 @@ def main(user):
     # ----------------------------------------- Frame Initialization: ----------------------------------------------- #
     heading_frame, content_frame, data_frame = frame_startup_admin(sub_frame)
     # ------------------------------------------------ Page Header: ------------------------------------------------- #
-    OD.new_frame(heading_frame, 0, 10, 1166, 15, "#C8A079")
-    OD.new_frame(heading_frame, 50, 30, 1066, 15, "#C8A079")
-    OD.new_frame(heading_frame, 50, 230, 1066, 15, "#C8A079")
-    OD.new_frame(heading_frame, 0, 250, 1166, 15, "#C8A079")
+    OD.new_frame(heading_frame, 0, 10, 1166, 15, "#FFA27F")
+    OD.new_frame(heading_frame, 50, 30, 1066, 15, "#FFA27F")
+    OD.new_frame(heading_frame, 50, 230, 1066, 15, "#FFA27F")
+    OD.new_frame(heading_frame, 0, 250, 1166, 15, "#FFA27F")
     OD.new_label_title(heading_frame, "ORATRICE MECANIQUE \nD'ANALYSE CARDINALE", 583, 130)
 
     # ------------------ Basic Info ------------------ #
